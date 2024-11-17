@@ -4,4 +4,5 @@ draft = true
 title = 'About'
 +++
 
-hello world
+My Blog
+I'm trying to write something...
