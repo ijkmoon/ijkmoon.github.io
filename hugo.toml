@@ -1,4 +1,4 @@
-baseURL = 'https://ijkmoon.github.io'
+baseURL = 'https://ijkmoon.github.io/ijkmoon.github.io'
 languageCode = 'en-us'
 title = 'Hello World'
 theme = 'paper'
